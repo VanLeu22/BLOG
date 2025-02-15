@@ -16,7 +16,7 @@ Navigating through Azure felt like gliding through a well-designed architectural
 
 Each service had a logical name—Virtual Machines were, well, Virtual Machines. Storage was called Blob Storage. No guessing games. No cryptic acronyms. Everything was clearly labeled, and the integration with other Microsoft products like Active Directory (which now is called EntraID, but I’ll get to that) made it feel like I was using one cohesive suite rather than a collection of disconnected tools.
 
-But that doesn’t mean Azure is perfect. As Joshua Olivo (member of The Cyber Range Community on Skool) points out,
+But that doesn’t mean Azure is perfect. As Joshua Olivo (member of The Cyber Range Community on Skool) points out, 
 
 > "Azure is pretty easy to pick up and use, but Microsoft sure loves to keep us on our toes with constant product name changes—just when you finally remember what something's called, they rename it!"
 
